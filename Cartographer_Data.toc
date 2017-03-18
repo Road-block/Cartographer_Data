@@ -1,0 +1,16 @@
+## Interface: 11200
+
+## Title: Cartographer |r[|cffeda55fData|r]
+## Notes: Cartographer_Herbalism, Cartographer_Mining and Cartographer_Treasure data updated daily
+## Author: Ominous
+## Version: 1.0
+## X-Category: Map
+## X-eMail: alastair@ominous.me.uk
+
+## OptionalDeps: Ace2, Cartographer_Notes
+## RequiredDeps: Cartographer
+
+core.lua
+Herbalism.lua
+Mining.lua
+Treasure.lua
